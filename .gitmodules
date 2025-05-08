@@ -5,3 +5,6 @@
 [submodule "ATQ"]
 	path = ATQ
 	url = https://github.com/vjoshy/atq_surveillance_package
+[submodule "DESA"]
+	path = DESA
+	url = https://github.com/vjoshy/desa
