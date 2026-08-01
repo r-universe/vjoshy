@@ -8,3 +8,6 @@
 [submodule "DESA"]
 	path = DESA
 	url = https://github.com/vjoshy/desa
+[submodule "regMR"]
+	path = regMR
+	url = https://github.com/vjoshy/regmr
